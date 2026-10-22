@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
+# dataset stays local; share it via the team drive, not git
+data/*
+!data/.gitkeep

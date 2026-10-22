@@ -1,0 +1,15 @@
+[project]
+name = "ow-challenge"
+version = "0.1.0"
+description = "Which sausage roll promotion should we run?"
+requires-python = ">=3.11"
+dependencies = [
+    "pandas",
+    "numpy",
+    "matplotlib",
+    "scipy",
+    "scikit-learn",
+    "jupyterlab",
+    "nbstripout",
+    "openpyxl>=3.1.5",
+]
